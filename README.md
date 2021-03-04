@@ -1,0 +1,2 @@
+# twitter_auto_follow
+seleniumで初めて動くもの作りました
